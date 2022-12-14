@@ -9,4 +9,6 @@ export class AppComponent {
   title = 'ADB';
   course = 'Angular';
   image = '';
+
+  goBack(): void {}
 }
